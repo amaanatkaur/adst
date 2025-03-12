@@ -14,6 +14,9 @@ int main() {
      printf ("Name      : Amaanat\n");
         printf ("DOB    : March 28, 2008\n");
         printf ("School : Gobind Sarvar\n");
+     printf("Name   : Hasleen Kaur\n");
+     printf("DOB    : April 27, 2009\n");
+     printf("School : Gobind Sarvar\n");
 
     return 0;
 }
